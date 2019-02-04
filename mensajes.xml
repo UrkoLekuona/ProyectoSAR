@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensajes ult_id="2">
+  <mensaje id="1">
+    <nick>urko</nick>
+    <email>urko@urko.com</email>
+    <asunto>AJAx</asunto>
+    <mensaje>jajajaax</mensaje>
+  </mensaje>
+  <mensaje id="2">
+    <nick>urko</nick>
+    <email>urko@urko.com</email>
+    <asunto>AJAx 2</asunto>
+    <mensaje>jajajaax 2</mensaje>
+  </mensaje>
+</mensajes>

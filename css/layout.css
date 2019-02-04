@@ -1,0 +1,53 @@
+#nav ul li {
+	float: left;
+	margin-left: 30px;
+	line-height: 40px;
+}
+ 
+#bigphoto img, .smallphoto img { 
+	max-width: 100%;
+	height: auto;
+}
+
+.nav {
+  overflow: hidden;
+  background-color: #323b40;
+}
+
+.nav a {
+  float: right;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.nav a:hover {
+  background-color: grey;
+  color: black;
+}
+
+.nav a.active {
+  background-color: orange;
+  color: white;
+}
+
+input.btnlogout {
+	background:#f47e7e;
+	display:inline-block;
+	color:#fff!important;
+	cursor:pointer;
+	font:bold 12px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	padding:5px 15px 5px 15px;
+	border-radius:5px;
+	border:solid 0 #e3edf4;
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px
+}
+input.btnlogout:hover {
+	background-color:#d83c3c;
+	text-decoration:none;
+	text-decoration:none
+}

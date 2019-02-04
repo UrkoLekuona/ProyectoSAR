@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users ult_id="3">
+  <user id="1">
+    <nick>urko</nick>
+    <pass>123456</pass>
+    <email>urko@urko.urko</email>
+  </user>
+  <user id="2">
+    <nick>urkoa</nick>
+    <pass>123456</pass>
+    <email>urko@urko.urkoa</email>
+  </user>
+  <user id="3">
+    <nick>aja</nick>
+    <pass>123456</pass>
+    <email>aja@aja.aja</email>
+  </user>
+</users>
